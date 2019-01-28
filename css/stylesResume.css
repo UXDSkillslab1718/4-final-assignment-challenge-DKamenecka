@@ -184,7 +184,7 @@ h ~ p {
                  url(../Images/school.jpg) no-repeat fixed;
 				 background-size:cover;
 }
-}
+
 
 .education h2 {
 	text-decoration:underline;
@@ -205,6 +205,11 @@ h ~ p {
 }
 .moduleTwo h2 {
 	text-decoration:underline;
+}
+.BestWork {
+	background: linear-gradient(rgba(158,173,200, 0.8),rgba(158,173,200, 0.5)),
+                 url(../Images/BespokeD.jpg) no-repeat fixed;
+				 background-size:cover;
 }
 
 
