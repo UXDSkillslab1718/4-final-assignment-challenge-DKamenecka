@@ -211,6 +211,9 @@ h ~ p {
                  url(../Images/BespokeD.jpg) no-repeat fixed;
 				 background-size:cover;
 }
+.imgFirstMod {
+	padding-bottom: 50px;
+}
 
 
 /*Media queries
