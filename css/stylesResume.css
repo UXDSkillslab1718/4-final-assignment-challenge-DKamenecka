@@ -54,6 +54,9 @@ a {
 a:hover {
 	text-decoration: none;
 }
+nav a:hover {
+	background:#9EADC8;
+}
 
 .content-wrap {
 	max-width: 800px;
@@ -186,7 +189,17 @@ h ~ p {
 .education h2 {
 	text-decoration:underline;
 }
-
+/*Schoolprojects
+------------------------------------------*/
+.moduleOne {
+	background: #9EADC8;
+}
+.moduleOne h2 {
+	text-decoration:underline;
+}
+.projectPic {
+	display:inline-block;
+}
 
 /*Media queries
 ------------------------------------*/
