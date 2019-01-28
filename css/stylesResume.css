@@ -200,6 +200,13 @@ h ~ p {
 .projectPic {
 	display:inline-block;
 }
+.moduleTwo {
+	background: #B9E28C;
+}
+.moduleTwo h2 {
+	text-decoration:underline;
+}
+
 
 /*Media queries
 ------------------------------------*/
